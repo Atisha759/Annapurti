@@ -5,10 +5,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- *
- * @author Pankaj
- */
 public class DBConnector 
 {
     static Connection con=null;
